@@ -1,1 +1,2 @@
-# C-21-Function-with-arguement-
+# collisionAlgorithm
+Algorithm to detect collision between two objects
